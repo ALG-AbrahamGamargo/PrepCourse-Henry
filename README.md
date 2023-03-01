@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un ejercicio del bootcamp de henry 
+este es una prueba de como crear un repositorio y clonarlo desde git hub 
